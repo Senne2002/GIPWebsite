@@ -1,0 +1,13 @@
+ <!-- Clients-->
+    <div class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 my-3">
+                    <a href="https://www.immalle.be/immalle3/index.php/nl-nl/"><img class="img-fluid d-block mx-auto" src="assets/img/logoimma.png" alt="" /></a>
+                </div>
+                <div class="col-md-3 col-sm-6 my-3">
+                    <a href="https://www.get.be/"><img class="img-fluid d-block mx-auto" src="assets/img/get-logo2.png"alt="" /></a>
+                </div>
+            </div>
+        </div>
+    </div>
